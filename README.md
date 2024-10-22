@@ -29,10 +29,11 @@ Here is the same page with the toggle button switched:
 
 ## 3️⃣ Initiation Method
 
+This section provides a comprehensive analysis of call initiation methods, highlighting trends over time and offering interactive filters for detailed exploration.
 
-- **Key Visualizations:** 
-- **Filters:** 
-- **Insights:** 
+- **Key Visualizations:** A bar chart displaying the total number of calls categorized by initiation method.
+- **Filters:** Interactive options to filter data by year and month for deeper analysis.
+- **Insights:** An analysis of the frequency of various initiation methods over specific time periods.
 
 <img width="1014" alt="Screenshot 2024-10-17 at 8 52 27 PM" src="https://github.com/user-attachments/assets/218904ca-33ec-4cc8-b111-059179b08199">
 
